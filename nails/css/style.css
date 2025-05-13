@@ -9,7 +9,7 @@
 
 @font-face {
     font-family: 'Pl';
-    src: url(/fonts/PlayfairDisplay.ttf);
+    src: url('../fonts/PlayfairDisplay.ttf');
 }
 
 .container {
